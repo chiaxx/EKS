@@ -1,9 +1,5 @@
-EKS installation:
-#########
-EKS Setup
-#########
+# EKS Setup
 
-   us-west-1  
 
 1) Create Dedicated VPC For EKS Cluster. Create Dedicated VPC For EKS Cluster. When you create a cluster, the VPC that you specify must meet the following requirements and considerations:
     
